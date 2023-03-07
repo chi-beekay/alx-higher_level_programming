@@ -1,2 +1,2 @@
 #!/bin/bash
-c is fun $PYFILE
+Python3 $PYFILE
